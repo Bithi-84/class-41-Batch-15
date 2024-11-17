@@ -1,0 +1,28 @@
+
+============= school Management system ================
+
+=====> Database: school_management_system
+
+1.students (database) (id, name, roll, class, phone, address, email)
+
+2.teachers (database) (id, name, designsion, phone, address, email)
+
+3.staffs   (database) (id, name, designsion, phone, address, email)
+
+
+
+Application => 60 - 70 (CRUD) => 40 - 30% (Business Logic)
+
+
+
+=========== SQL =============
+
+s = structured
+Q = Quary
+L = Language
+
+Create =>
+
+INSERT INTO students ( name, roll, class, phone, address, email) VALUES ('Rabbi',5, 8, '0876543','Uttara,sector-14','tehzeebbithi.2016@gmail.com');
+
+INSERT INTO teachers (name, designation, phone, address, email) VALUES ('Mr.Hasan','Head Teacher','09987655','Uttara,Sector-14','fhgtf@gmail.com');
